@@ -1,56 +1,121 @@
-Hi there, I'm Raffa! 👋
+<!-- HEADER BANNER --><p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B36,50:075985,100:0891B2&height=220&section=header&text=RAFFA&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&descColor=BAE6FD&animation=fadeIn" />
+</p><!-- INTRODUCTION --><h2 align="center">Hi there, I'm Raffa 👋</h2><h3 align="center">
+  🎓 Informatics Engineering Student | 💻 Tech Enthusiast
+</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+about+Technology;Learning+and+Building+Every+Day" />
+</p><p align="center">
+  Passionate about technology, programming, and software development.
+  <br>
+  Always exploring new ideas and improving my skills.
+</p>---
 
-💻 Informatics Engineering Student | Tech Enthusiast
-
-Welcome to my GitHub profile!
-
-I'm an Informatics Engineering student passionate about technology, programming, and software development. I enjoy exploring new technologies, learning programming languages, and building projects to improve my skills.
-
----
-
-🚀 About Me
+<!-- ABOUT ME -->👨‍💻 About Me
 
 - 🎓 Informatics Engineering Student
 - 💻 Interested in Software Development
 - 🎮 Interested in Game Development
-- 🌱 Currently improving my programming skills
+- 📱 Exploring Android Development
+- 🌱 Always learning new technologies
 - 🌍 Interested in History and Geography
-- ⚡ Always curious about how technology works
+- ⚡ Believe in continuous learning and creativity
 
 ---
 
-🛠️ Technologies & Tools
+<!-- CONNECT -->🤝 Connect with Me
 
-Programming Languages
-
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Tools & Software
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-"Blender" (https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-"Unity" (https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p align="left">
+  <a href="https://github.com/MuhammadRaffa29">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadRaffa29-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/mraffale_/">
+    <img src="https://img.shields.io/badge/Instagram-mraffale__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mraffa2905@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>- 📧 Email: mraffa2905@gmail.com
+- 📸 Instagram: "@mraffale_" (https://www.instagram.com/mraffale_/)
+- 💬 Feel free to explore my repositories and connect with me!
 
 ---
 
-📊 GitHub Statistics
+<!-- FEATURED PROJECTS -->🚀 Featured Projects
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=MuhammadRaffa29&show_icons=true&theme=tokyonight&hide_border=true)
+🌐 Personal Portfolio Website
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRaffa29&layout=compact&theme=tokyonight&hide_border=true)
+A personal portfolio website built using React and Tailwind CSS to showcase personal information, skills, and projects.
+
+Technologies Used:
+
+- React
+- Tailwind CSS
 
 ---
 
-🤝 Connect With Me
+📚 Computer Course Management System
 
-- GitHub: "@MuhammadRaffa29" (https://github.com/MuhammadRaffa29)
+A Laravel-based web application developed as a learning project to manage courses, student registrations, and administrative activities.
+
+Technologies Used:
+
+- Laravel
+- PHP
+- MySQL
 
 ---
 
-⭐ "Keep learning, keep building, and keep improving."
+🛒 E-Commerce Website
+
+A simple e-commerce website built using HTML, CSS, and JavaScript. The project was deployed using GitHub.
+
+Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
+
+---
+
+<!-- CURRENTLY WORKING -->🔭 I'm Currently Working On
+
+- 📱 Android Application Development
+- 🎮 Educational Game Projects
+- 💻 Programming and Software Development Projects
+- 🗄️ Database Management Projects
+- 🚀 Improving my coding skills
+
+---
+
+<!-- CURRENTLY LEARNING -->🌱 I'm Currently Learning
+
+- ☕ Java Programming
+- 🐍 Python Programming
+- 🧩 Object-Oriented Programming (OOP)
+- 🗄️ MySQL and Database Management
+- 🎮 Unity Game Development
+- 📱 Android Development
+- 💻 Software Engineering
+
+---
+
+<!-- TECH STACK -->🛠️ Tech Stack
+
+Programming Languages & Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,mysql" />
+</p>Tools & Software
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,github" />
+</p>---
+
+<!-- FOOTER --><p align="center">
+  <i>"Keep learning, keep building, and never stop improving."</i>
+</p><p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p><p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B36,50:075985,100:0891B2&height=100&section=footer" />
+</p>
