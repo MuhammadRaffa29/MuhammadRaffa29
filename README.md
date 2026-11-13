@@ -22,34 +22,51 @@
 
 ---
 
-<!-- CONNECT -->🤝 Connect with Me
+
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://github.com/MuhammadRaffa29">
-    <img src="https://img.shields.io/badge/GitHub-MuhammadRaffa29-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-MUHAMMADRAFFA29-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-raffa-34648344b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Raffa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mraffale_/">
-    <img src="https://img.shields.io/badge/Instagram-mraffale__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-MRAFFALE_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mraffa2905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>- 📧 Email: mraffa2905@gmail.com
-- 📸 Instagram: "@mraffale_" (https://www.instagram.com/mraffale_/)
-- 💬 Feel free to explore my repositories and connect with me!
+</p>
+
+📧 **Email:** mraffa2905@gmail.com
+
+📸 **Instagram:** [@mraffale_](https://www.instagram.com/mraffale_/)
+
+💼 **LinkedIn:** [Muhammad Raffa](https://www.linkedin.com/in/muhammad-raffa-34648344b/)
+
+💻 **GitHub:** [MuhammadRaffa29](https://github.com/MuhammadRaffa29)
+
+🌐 **Portfolio:** [Visit My Website](https://portfolio-seven-green-91.vercel.app/)
+
+💬 Feel free to explore my repositories and connect with me!
 
 ---
 
-<!-- FEATURED PROJECTS -->🚀 Featured Projects
+## 🚀 Featured Projects
 
-🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio Website
 
 A personal portfolio website built using React and Tailwind CSS to showcase personal information, skills, and projects.
 
-Technologies Used:
-
+**Technologies Used:**
 - React
 - Tailwind CSS
+
+🔗 [Visit Portfolio Website](https://portfolio-seven-green-91.vercel.app/)
+
+
 
 ---
 
